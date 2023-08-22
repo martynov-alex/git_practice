@@ -11,6 +11,6 @@ Link to doc [test](docs/test.md).
 text
 </details>
 
-- assets
-  - docs
-  <details> ttt </details>
+- <details> <summary> asserts </summary> ttt </details>
+  - <details> <summary> docs </summary> ttt </details>
+  - <details> <summary> images </summary> ttt </details>
