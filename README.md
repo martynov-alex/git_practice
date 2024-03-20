@@ -7,7 +7,7 @@ Link to doc [test](docs/test.md).
 == Видео ==
 </summary>
 
-text
+text and something
 </details>
 
 - asserts <details> ttt </details>
